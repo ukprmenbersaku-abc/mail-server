@@ -1,0 +1,5 @@
+{
+  "name": "Cloudflare AI Mailer",
+  "description": "Cloudflare Workersを利用してメールを送信するためのモダンなReactフロントエンドです。Gemini AIを活用した下書き作成やトーン調整機能を搭載しています。",
+  "requestFramePermissions": []
+}
